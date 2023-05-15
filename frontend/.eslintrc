@@ -1,0 +1,64 @@
+{
+  "env": {
+    "browser": true,
+    "es2020": true,
+    "node": true,
+    "jest": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:prettier/recommended",
+    "plugin:cypress/recommended"
+  ],
+  "plugins": [
+    "react",
+    "unused-imports",
+    "simple-import-sort",
+    "@typescript-eslint"
+  ],
+  "rules": {
+    "linebreak-style": 0,
+    "global-require": 0,
+    "react/display-name": 0,
+    "eslint linebreak-style": [
+      0,
+      "error",
+      "windows"
+    ],
+    "react-hooks/rules-of-hooks": "off",
+    "react-hooks/exhaustive-deps": "off",
+    "react/prop-types": "off",
+    "react/react-in-jsx-scope": "off",
+    "@typescript-eslint/triple-slash-reference": "off",
+    "@typescript-eslint/explicit-module-boundary-types": "off",
+    "@typescript-eslint/no-non-null-assertion": "off",
+    "@typescript-eslint/no-empty-interface": "off",
+    "@typescript-eslint/no-non-null-asserted-optional-chain": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+    "semi": "off",
+    "unused-imports/no-unused-imports": "warn",
+    "unused-imports/no-unused-vars": "warn",
+    "import/prefer-default-export": "off",
+    "import/no-unresolved": "off",
+    "import/extensions": "off",
+    "simple-import-sort/imports": "warn",
+    "simple-import-sort/exports": "warn",
+    "prettier/prettier": "warn",
+    "@typescript-eslint/no-empty-function": "off",
+    "react/jsx-no-target-blank": "off",
+    "jsx-a11y/label-has-associated-control": "off",
+    "import/order": "off",
+    "prefer-template": "error",
+    "react/jsx-curly-brace-presence": [
+      "error",
+      {
+        "props": "never",
+        "children": "ignore"
+      }
+    ],
+    "jsx-a11y/anchor-has-content": "off"
+  }
+}

@@ -1,0 +1,10 @@
+*
+!src/
+!types/
+!tsconfig.json
+!swagger.json
+!tsup.config.ts
+!package.json
+!.npmrc
+!pnpm-lock.yaml
+!.swcrc

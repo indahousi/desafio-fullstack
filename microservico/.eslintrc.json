@@ -1,0 +1,61 @@
+{
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "root": true,
+  "extends": [
+    "plugin:@typescript-eslint/recommended",
+    "prettier",
+    "airbnb-base"
+  ],
+  "ignorePatterns": "**/*.spec.ts",
+  "globals": {
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
+  },
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "project": "./tsconfig.json"
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "prettier"
+  ],
+  "rules": {
+    "linebreak-style":0,
+    "import/extensions": [
+      "error",
+      "ignorePackages",
+      {
+        "js": "never",
+        "jsx": "never",
+        "ts": "never",
+        "tsx": "never"
+      }
+    ],
+    "class-methods-use-this": "off",
+    "semi": [2, "never"],
+    "@typescript-eslint/semi": [2, "never"],
+    "@typescript-eslint/no-explicit-any": "off",
+    "no-unused-vars": "warn",
+    "no-shadow": "off",
+    "max-len": "off",
+    "no-use-before-define": "off",
+    "no-underscore-dangle": "off",
+    "object-curly-newline": "warn",
+    "import/prefer-default-export": "off"
+  },
+  "settings": {
+    "import/resolver": {
+      "node": {
+        "extensions": [
+          ".js",
+          ".ts"
+        ]
+      }
+    }
+  }
+}

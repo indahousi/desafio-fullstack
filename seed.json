@@ -1,0 +1,2286 @@
+[
+  {
+    "name": "SP-VNOF 1206",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "RE-TOLV  - 1012A",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09ca398bee61af70ec938",
+      "https://housi.stays.com.br/image/63a09ca33b2e8cce52c22988",
+      "https://housi.stays.com.br/image/63a09ca23b2e8cce52c22981",
+      "https://housi.stays.com.br/image/63a09ca57830f96651e3ac75",
+      "https://housi.stays.com.br/image/63a09ca498bee61af70ec93e"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV  - 1012B",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09d88a7fb21ba636d1e8a",
+      "https://housi.stays.com.br/image/63a09d85399c716af1db047c",
+      "https://housi.stays.com.br/image/63a09d85600fd790804850c4",
+      "https://housi.stays.com.br/image/63a09d854b06ea96d156498b",
+      "https://housi.stays.com.br/image/63a09d864b06ea96d1564990"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0408",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0a890e6128adce3f4dee2",
+      "https://housi.stays.com.br/image/63a0a890ba73328cee43102f",
+      "https://housi.stays.com.br/image/63a0a890558a4db5ee363193",
+      "https://housi.stays.com.br/image/63a0a89675cfabf48ca2261b",
+      "https://housi.stays.com.br/image/63a0a896b3b8120818235c5c"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0208",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0a38c7974c52793c47eb3",
+      "https://housi.stays.com.br/image/63a0a38e7974c52793c47eb9",
+      "https://housi.stays.com.br/image/63a0a38ee6128adce3f4c24f",
+      "https://housi.stays.com.br/image/63a0a3917830f96651e3be37",
+      "https://housi.stays.com.br/image/63a0a395edba10c6293ffca9"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0407",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 34,
+    "guests": 4,
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0b7389447b61bb3b20083",
+      "https://housi.stays.com.br/image/63a0b733a7fb21ba636e3840",
+      "https://housi.stays.com.br/image/63a0b7349447b61bb3b20078",
+      "https://housi.stays.com.br/image/63a0b734d8702311d3ffc645",
+      "https://housi.stays.com.br/image/63a0b73bc46e52206a4321b5"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "PR-BRGV 0110",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "neighborhood": "Centro",
+      "street": "Avenida Silva Jardim 893",
+      "streetNumber": "893/901",
+      "zipCode": "80230000"
+    },
+    "area": 18.5,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/639c71b95317d07e60063844",
+      "https://housi.stays.com.br/image/639c733b51ef4bcf74882be6",
+      "https://housi.stays.com.br/image/639c733b7e84631d921fcddf",
+      "https://housi.stays.com.br/image/639c733c05045557fd4c2ae3",
+      "https://housi.stays.com.br/image/639c733cf42fb2a2e0eacdd1"
+    ],
+    "building": {
+      "name": "Housi Brickell One",
+      "description": "Curitiba ficou ainda melhor com a chegada da Housi Brickell One, um prédio inteirinho #housivibes.Localizado na Av. Silva Jardim, 901, o empreendimento oferece a comodidade de estar do ladinho do centro, em uma das regiões mais cobiçadas da cidade, com fácil acesso às principais avenidas que te levam a qualquer ponto da capital.A Housi Brickell One está a apenas 500 metros do Shopping Estação e a avenida tem opções de ótimos supermercados e restaurantes logo ali. O famoso Jardim Botânico fica a apenas 10 min de carro. Para os universitários, a UTFPR está a 300m, e o campus da PUC a apenas 8 min de carro.Na Housi Brickell One, você tem à sua disposição academia, lavanderia coletiva, coworking e várias outras comodidades que só uma Flagship Housi oferece. E tem mais: um rooftop incrível para curtir e relaxar. A Housi perfeita para uma experiência incrível de moradia.\n"
+    }
+  },
+  {
+    "name": "PR-BRGV 0402",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "neighborhood": "Centro",
+      "street": "Avenida Silva Jardim 893",
+      "streetNumber": "893/901",
+      "zipCode": "80230000"
+    },
+    "area": 18.5,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/61a94c3f206f8fa6b764f17a",
+      "https://housi.stays.com.br/image/6192e46e9ffa9677fa15da33",
+      "https://housi.stays.com.br/image/61a94c413c3a2bb444cfedc4",
+      "https://housi.stays.com.br/image/61a94c3f206f8f113164f17b",
+      "https://housi.stays.com.br/image/61a94c3f206f8ff0c264f17c"
+    ],
+    "building": {
+      "name": "Housi Brickell One",
+      "description": "Curitiba ficou ainda melhor com a chegada da Housi Brickell One, um prédio inteirinho #housivibes.Localizado na Av. Silva Jardim, 901, o empreendimento oferece a comodidade de estar do ladinho do centro, em uma das regiões mais cobiçadas da cidade, com fácil acesso às principais avenidas que te levam a qualquer ponto da capital.A Housi Brickell One está a apenas 500 metros do Shopping Estação e a avenida tem opções de ótimos supermercados e restaurantes logo ali. O famoso Jardim Botânico fica a apenas 10 min de carro. Para os universitários, a UTFPR está a 300m, e o campus da PUC a apenas 8 min de carro.Na Housi Brickell One, você tem à sua disposição academia, lavanderia coletiva, coworking e várias outras comodidades que só uma Flagship Housi oferece. E tem mais: um rooftop incrível para curtir e relaxar. A Housi perfeita para uma experiência incrível de moradia.\n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0909",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0b3574ae91c87c312135e",
+      "https://housi.stays.com.br/image/63a0b3579447b61bb3b1f587",
+      "https://housi.stays.com.br/image/63a0b3596469a8a2678c4df2",
+      "https://housi.stays.com.br/image/63a0b363563a76d121806e5e",
+      "https://housi.stays.com.br/image/63a0b36a556e9fda40b35b40"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0901B",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09e4a75cfabf48ca1f7c6",
+      "https://housi.stays.com.br/image/63a09e48f71728e6c5170465",
+      "https://housi.stays.com.br/image/63a09e487974c52793c46d48",
+      "https://housi.stays.com.br/image/63a09e484bead6ba89f787be",
+      "https://housi.stays.com.br/image/63a09e4a31f1c569524ccb15"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0901A",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09b613b2e8cce52c227d5",
+      "https://housi.stays.com.br/image/63a09b62e6128adce3f4947b",
+      "https://housi.stays.com.br/image/63a09b62d8702311d3ff6c09",
+      "https://housi.stays.com.br/image/63a09b63eea4876313f30ee9",
+      "https://housi.stays.com.br/image/63a09b6323368cc571b9ec5b"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0810",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0b18c8580351589b3dee8",
+      "https://housi.stays.com.br/image/63a0b18dc46e52206a42f88f",
+      "https://housi.stays.com.br/image/63a0b18dc550ac7771499570",
+      "https://housi.stays.com.br/image/63a0b19fe6128adce3f50b0c",
+      "https://housi.stays.com.br/image/63a0b19d558a4db5ee369758"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0709",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0b0d0ba73328cee433120",
+      "https://housi.stays.com.br/image/63a0b0d37974c52793c4abc9",
+      "https://housi.stays.com.br/image/63a0b0d13febb7b6ba43a4ab",
+      "https://housi.stays.com.br/image/63a0b0de399c716af1db6209",
+      "https://housi.stays.com.br/image/63a0b0dc4bead6ba89f7cf26"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0612B",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09e01eea4876313f31f3b",
+      "https://housi.stays.com.br/image/63a09dff558a4db5ee3616e9",
+      "https://housi.stays.com.br/image/63a09dfff71728e6c517015f",
+      "https://housi.stays.com.br/image/63a09dff4bead6ba89f7864f",
+      "https://housi.stays.com.br/image/63a09e007974c52793c468db"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0612A",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09b449447b61bb3b18bfe",
+      "https://housi.stays.com.br/image/63a09b456469a8a2678bc8e6",
+      "https://housi.stays.com.br/image/63a09b45b89882b32f335858",
+      "https://housi.stays.com.br/image/63a09b46f367919b2b75caa1",
+      "https://housi.stays.com.br/image/63a09b471cc445c2245f5b3b"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0511",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0af1a7974c52793c4a796",
+      "https://housi.stays.com.br/image/63a0af1da7fb21ba636e27af",
+      "https://housi.stays.com.br/image/63a0af1c75cfabf48ca251d6",
+      "https://housi.stays.com.br/image/63a0af3ab3b8120818238d22",
+      "https://housi.stays.com.br/image/63a0af36563a76d12180662f"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0510",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0af1275cfabf48ca251c1",
+      "https://housi.stays.com.br/image/63a0af16c550ac7771498a1b",
+      "https://housi.stays.com.br/image/63a0af14c550ac7771498a13",
+      "https://housi.stays.com.br/image/63a0af3123368cc571ba733e",
+      "https://housi.stays.com.br/image/63a0af2e7830f96651e3f434"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0509",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0af081cc445c2245faf1c",
+      "https://housi.stays.com.br/image/63a0af0a728c0a4c30e02fdc",
+      "https://housi.stays.com.br/image/63a0af09e570afcb4427bf74",
+      "https://housi.stays.com.br/image/63a0af23a8d79ed5e81258f7",
+      "https://housi.stays.com.br/image/63a0af1e53866656beae4030"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0309",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0a714728c0a4c30dffe5c",
+      "https://housi.stays.com.br/image/63a0a716ba73328cee430a92",
+      "https://housi.stays.com.br/image/63a0a7153b2e8cce52c24c86",
+      "https://housi.stays.com.br/image/63a0a7204346ba4be1eb737a",
+      "https://housi.stays.com.br/image/63a0a71f9447b61bb3b1b25a"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0104",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0b8b7c550ac777149abfa",
+      "https://housi.stays.com.br/image/63a0b8acba73328cee437a29",
+      "https://housi.stays.com.br/image/63a0b8abb3b812081823c620",
+      "https://housi.stays.com.br/image/63a0b8ab3b2e8cce52c349de",
+      "https://housi.stays.com.br/image/63a0b8ad75cfabf48ca273c7"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "SP-USMM 1307",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Moema",
+      "street": "Avenida Sabiá",
+      "streetNumber": "641",
+      "zipCode": "04515001"
+    },
+    "area": 21,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/64386933ca5a4aebf543045f",
+      "https://housi.stays.com.br/image/6438692ec7fd5c2ccb897dc6",
+      "https://housi.stays.com.br/image/6438692d3e609c40ce27c01f",
+      "https://housi.stays.com.br/image/6438692d055aa1096f5e95a6",
+      "https://housi.stays.com.br/image/6438692ec7fd5c2ccb897dc9"
+    ],
+    "building": {
+      "name": "SP-USMM- Urbic Sabiá - Operado por Flat4you",
+      "description": "Studios prontos para mudar ou alugar, totalmente equipados e decorados e com lazer completo para o seu dia a dia: Bicicletário, Churrasqueira, CoWorking, Espaço gourmet, Fitness, Lavanderia Coletiva, Lobby, Piscina, Sala de Reunião, Spa. Agende sua visita e encante-se.\n"
+    }
+  },
+  {
+    "name": "SP-USMM 1402",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Moema",
+      "street": "Avenida Sabiá",
+      "streetNumber": "641",
+      "zipCode": "04515001"
+    },
+    "area": 21,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/643ebf8211de9c6fdc9d7501",
+      "https://housi.stays.com.br/image/643ebf7cad764e81dd94ecc6",
+      "https://housi.stays.com.br/image/643ebf7d93d8c0a1ed6d1240",
+      "https://housi.stays.com.br/image/643ebf7c8955e49fc6059b53",
+      "https://housi.stays.com.br/image/643ebf7eb0e0492da566b85b"
+    ],
+    "building": {
+      "name": "SP-USMM- Urbic Sabiá - Operado por Flat4you",
+      "description": "Studios prontos para mudar ou alugar, totalmente equipados e decorados e com lazer completo para o seu dia a dia: Bicicletário, Churrasqueira, CoWorking, Espaço gourmet, Fitness, Lavanderia Coletiva, Lobby, Piscina, Sala de Reunião, Spa. Agende sua visita e encante-se.\n"
+    }
+  },
+  {
+    "name": "SP-MOPR 1005",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paraíso",
+      "street": "Rua Artur Prado",
+      "streetNumber": "501",
+      "zipCode": "01322000"
+    },
+    "area": 0,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/64387536055aa1096f5efadf",
+      "https://housi.stays.com.br/image/64387535fc8824c2869f234c",
+      "https://housi.stays.com.br/image/64387535461295575533d6fc",
+      "https://housi.stays.com.br/image/6438753562aa6f07a0904588",
+      "https://housi.stays.com.br/image/64387536da3763fd1e109d89"
+    ],
+    "building": {
+      "name": "SP-MOPR-Mobi One Paulista -  Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.Na Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-MOPR 1006",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paraíso",
+      "street": "Rua Artur Prado",
+      "streetNumber": "501",
+      "zipCode": "01322000"
+    },
+    "area": 0,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/64387f2d7f0f1e8824f7e158",
+      "https://housi.stays.com.br/image/64387f2a7f0f1e8824f7e154",
+      "https://housi.stays.com.br/image/64387f2a2636e02cfdd5f7fa",
+      "https://housi.stays.com.br/image/64387f2a9da8092ace0d4fe0",
+      "https://housi.stays.com.br/image/64387f2b766896eb17302eaa"
+    ],
+    "building": {
+      "name": "SP-MOPR-Mobi One Paulista -  Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.Na Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0306",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0905",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0209",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNAP 0306",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Apiacás",
+      "streetNumber": "104",
+      "zipCode": "05017020"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/60b7b0a91034ffd3f005a315",
+      "https://housi.stays.com.br/image/60b7b0abd90cb71558e74803",
+      "https://housi.stays.com.br/image/60b7b0a4d90cb78c94e747eb",
+      "https://housi.stays.com.br/image/60b7b0a8d90cb77671e747fc",
+      "https://housi.stays.com.br/image/60b7b0a8014b9c403fd300c3"
+    ],
+    "building": {
+      "name": "VN Apiacás",
+      "description": "Tranquilo, aconchegante, repleto de padarias e panificadoras, bares e restaurantes, muito bem localizados, esse é o bom e velho bairro de Perdizes, lar da Housi VN Apiacás.  Estamos na Rua Apiacás, 104, do lado da agradável Avenida Sumaré, point de ciclistas e esportistas de todas as idades, com muitas praças, e parques nas proximidades, morar em Perdizes é um privilégio que pode ser o seu. Aqui, você tem a praticidade de ter tudo perto, com a comodidade de ter também internet, condomínio, água, luz e muito mais. Tudo incluso na sua assinatura, e você ainda pode pagar no cartão de crédito. Zero burocracia, zero preocupações.  E quer saber mais? Os apês são todos mobiliados, decorados e você ainda aproveita serviços exclusivos e tudo pra você curtir o melhor de ser Housi. Tá esperando o quê? Vem ser Housilover ;) \n"
+    }
+  },
+  {
+    "name": "SP-VNOF 0801",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 19.15,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "SP-VNOF 1201",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1603",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-0716 3° (WOKBS1)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0405",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a0a7def71728e6c5171c62",
+      "https://housi.stays.com.br/image/63a0a7dec550ac7771496328",
+      "https://housi.stays.com.br/image/63a0a7dfc46e52206a42ca8e",
+      "https://housi.stays.com.br/image/63a0a7e46469a8a2678bfbf3",
+      "https://housi.stays.com.br/image/63a0a7e67830f96651e3ce40"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0216",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0315",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1709",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNCV 2308",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Pinheiros",
+      "street": "RUA CAPOTE VALENTE",
+      "streetNumber": "80",
+      "zipCode": "05402000"
+    },
+    "area": 0,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/5f10a32d9a179f8245399664",
+      "https://housi.stays.com.br/image/5f10a32c2a805620010be34a",
+      "https://housi.stays.com.br/image/5f10a32a9a179f1f4a399662",
+      "https://housi.stays.com.br/image/5f10a32d9a179f58f8399663",
+      "https://housi.stays.com.br/image/5f10a32c0c725a63d8214fcc"
+    ],
+    "building": {
+      "name": "VN Capote Valente",
+      "description": "Muito conhecido por seus cafés e bares descolados, galerias de arte modernas, livrarias e restaurantes incríveis em uma única rua, o bairro de Pinheiros agora tem mais um motivo para ser um dos lugares mais legais de se morar em São Paulo. \nLocalizada na Rua Capote Valente, 80, ao lado da estilosa Oscar Freire, com fácil acesso a estações de metrô, a VN Capote Valente é um convite a morar em um dos bairros mais cults de SP. Aqui, além da praticidade de ter fácil acesso a tudo que precisa, ainda desfruta da comodidade de ter também internet, TV a cabo, condomínio, água, luz e muito mais. Tudo incluso na sua assinatura, e você ainda pode pagar no cartão de crédito. Zero burocracia, zero preocupações.\nOs apês são todos mobiliados, decorados e você ainda aproveita serviços exclusivos, como o Hub de Apps com: Uber, Netflix, Ifood, Rappi, Amazon Prime, Disney Plus e tudo pra você curtir o melhor de ser Housi. Tá esperando o quê? Vem ser Housilover ;)\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1009",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNOF 1612",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "SP-VNAP 0302",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Apiacás",
+      "streetNumber": "104",
+      "zipCode": "05017020"
+    },
+    "area": 25,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63d447af20a255bb586a48b4",
+      "https://housi.stays.com.br/image/63d447af338b9755fda6f803",
+      "https://housi.stays.com.br/image/63d447aff71ff023519f7d11",
+      "https://housi.stays.com.br/image/63d447b1d6272662c1c1d55e",
+      "https://housi.stays.com.br/image/63d447b14bb059a65a4c9884"
+    ],
+    "building": {
+      "name": "VN Apiacás",
+      "description": "Tranquilo, aconchegante, repleto de padarias e panificadoras, bares e restaurantes, muito bem localizados, esse é o bom e velho bairro de Perdizes, lar da Housi VN Apiacás.  Estamos na Rua Apiacás, 104, do lado da agradável Avenida Sumaré, point de ciclistas e esportistas de todas as idades, com muitas praças, e parques nas proximidades, morar em Perdizes é um privilégio que pode ser o seu. Aqui, você tem a praticidade de ter tudo perto, com a comodidade de ter também internet, condomínio, água, luz e muito mais. Tudo incluso na sua assinatura, e você ainda pode pagar no cartão de crédito. Zero burocracia, zero preocupações.  E quer saber mais? Os apês são todos mobiliados, decorados e você ainda aproveita serviços exclusivos e tudo pra você curtir o melhor de ser Housi. Tá esperando o quê? Vem ser Housilover ;) \n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0708",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "Rooftop Housi Paulista",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paulista",
+      "street": "BELA CINTRA",
+      "streetNumber": "1032",
+      "zipCode": "01415002"
+    },
+    "area": 0,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 2,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63c7ef3f204fe7e463947b48",
+      "https://housi.stays.com.br/image/63c7ef3f25f724c4907733a6",
+      "https://housi.stays.com.br/image/63c7ef3fd764703b36027440",
+      "https://housi.stays.com.br/image/63c7ef4158877d33707e2cf3",
+      "https://housi.stays.com.br/image/63c8515d1159a35ef7da997a"
+    ],
+    "building": {
+      "name": "Housi Paulista",
+      "description": "Na Housi a sua moradia flexível é por assinatura. Você muda rapidinho e pode ficar pelo tempo que quiser, contando com um prédio totalmente inteligente repleto de facilidades: mercado, adega, bicicleta, carro elétrico entre outros, para facilitar seu dia a dia, repleto de #ExperiênciasIndaHousi.Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação.INFORMAÇÕES PARA SUA HOSPEDAGEM:- O horário de saída deverá acontecer até as 12h do último dia da reserva.- É proibido fumar dentro da unidade, corredores e elevadores.- Descarte o lixo conforme orientação da portaria.- Todos os itens que compõem a unidade, são de responsabilidade do morador, esses possuem chips de segurança e, em caso de eventual dano, deverão ser reembolsados a Housi.- A Housi não se responsabiliza por objetos pessoais deixados na unidade, após a saída. Sempre verifique antes de sair.- Pedimos conscientização sobre barulhos e sons altos.- Sempre verifique se todas as janelas e portas estão fechadas, antes de ligar o equipamento de ar-condicionado, para evitar respingos de água.- Todas as imagens do anúncio, são meramente ilustrativas, portanto, os itens podem variar.- Temos secadores e ferro de passar roupa, disponíveis para empréstimo na recepção.- Lavanderia OMO no térreo, com maquinas de lavar e secadora, o acesso é feito via app \"OMO Lavanderia\".- Como somos um condomínio residencial, não possuímos serviço de café da manhã. Porém, há muitos lugares nas redondezas do condomínio com ótimas avaliações.Sinta-se In Housi. E conheça um novo conceito de moradia!Aqui você vai viver com liberdade, se conectar\n"
+    }
+  },
+  {
+    "name": "RE-TOLV  - 1010",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 22,
+    "guests": 4,
+    "bedrooms": 1,
+    "beds": 2,
+    "bathrooms": 2,
+    "category": "STANDARD",
+    "petFriendly": true,
+    "gallery": [
+      "https://housi.stays.com.br/image/63c5bf3f09615411be9a66e8",
+      "https://housi.stays.com.br/image/63c5bf292e1d7cb2d84c97fc",
+      "https://housi.stays.com.br/image/63c5bf2964b61b7c88b4ec60",
+      "https://housi.stays.com.br/image/63c5bf2922be9e0d4e489573",
+      "https://housi.stays.com.br/image/63c5bf2ce1f071dc6e94e49c"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "SP-NOIB 1112",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Itaim Bibi",
+      "street": "Avenida Santo Amaro",
+      "streetNumber": "1342",
+      "zipCode": "04506001"
+    },
+    "area": 27,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63becac8a59f6e208c8125d0",
+      "https://housi.stays.com.br/image/63becac0bed68bf37e16451f",
+      "https://housi.stays.com.br/image/63becac10e5ae70af79d8652",
+      "https://housi.stays.com.br/image/63becac0ad6893a199da0457",
+      "https://housi.stays.com.br/image/63becac1cee9a0a7934e2236"
+    ],
+    "building": {
+      "name": "SP-NOIB-NEX ONE ITAIM - Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.\nNa Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-NOIB 1904",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Itaim Bibi",
+      "street": "Avenida Santo Amaro",
+      "streetNumber": "1342",
+      "zipCode": "04506001"
+    },
+    "area": 28,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63becd26a46352f855e8f459",
+      "https://housi.stays.com.br/image/63becd1eeaeb48041b623557",
+      "https://housi.stays.com.br/image/63becd1e74f2c7aebf7cf8cf",
+      "https://housi.stays.com.br/image/63becd1e317ebe3179716ec8",
+      "https://housi.stays.com.br/image/63becd1f10687df45c5fa9e8"
+    ],
+    "building": {
+      "name": "SP-NOIB-NEX ONE ITAIM - Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.\nNa Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1513",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "RE-TOLV - 0412B",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Pernambuco",
+      "city": "Recife",
+      "neighborhood": "Ilha do Leite",
+      "street": "R. Gen. Joaquim Inácio",
+      "streetNumber": "170",
+      "zipCode": "50070270"
+    },
+    "area": 20,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": true,
+    "gallery": [
+      "https://housi.stays.com.br/image/63a09ddd556e9fda40b31131",
+      "https://housi.stays.com.br/image/63a09ddaf71728e6c5170127",
+      "https://housi.stays.com.br/image/63a09ddaa8d79ed5e8121053",
+      "https://housi.stays.com.br/image/63a09ddad8702311d3ff7366",
+      "https://housi.stays.com.br/image/63a09ddc1cc445c2245f62f7"
+    ],
+    "building": {
+      "name": "Housi Recife Tolive",
+      "description": "O prédio possui 60 vagas de garagem rotativas para uso livre e gratuito, sujeito a disponibilidade. \n"
+    }
+  },
+  {
+    "name": "SP-VNOF 1314",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "SP-VNOF 0703 3° (PWD7AM)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "SP-APMC - 0910 - Moema Carinás",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "São Paulo",
+      "neighborhood": "Moema",
+      "street": "Av. dos Carinas",
+      "streetNumber": "407",
+      "zipCode": "04086010"
+    },
+    "area": 25,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/639c65f45432df38ede2df8b",
+      "https://housi.stays.com.br/image/639c65ef2ea7949ead6c6a71",
+      "https://housi.stays.com.br/image/639c65f0435418cddf47191d",
+      "https://housi.stays.com.br/image/639c65ef148c0c02f6528540",
+      "https://housi.stays.com.br/image/639c65f75432df38ede2df90"
+    ],
+    "building": {
+      "name": "AP Moema Carinás",
+      "description": "A 7 min. a pé do metrô eucaliptos e do Shopping Ibirapuera, condomínio conta com inúmeras comodidades, tais como:\nTomadas USB (até 3 unidades), Fechadura biométrica na porta de entrada, Dog walker, Rede frigorígena para ar-condicionado na sala e dormitório, Espaço para delivery, Coworking, Bicicletário, Lavanderia coletiva.\n"
+    }
+  },
+  {
+    "name": "SP-VNOF 0520 3° (F14I7B)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  },
+  {
+    "name": "PR-ESMS 0519",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "Paraná",
+      "city": "Curitiba",
+      "neighborhood": "Ecoville",
+      "street": "R.Bárbara Cvintal",
+      "streetNumber": "280",
+      "zipCode": "81200280"
+    },
+    "area": 21,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/639c6fce64d7eb3d5b8ba018",
+      "https://housi.stays.com.br/image/639c6fcc7d75046ec13e3fcb",
+      "https://housi.stays.com.br/image/639c6fcc435418cddf4768c3",
+      "https://housi.stays.com.br/image/639c6fcd435418cddf4768c5",
+      "https://housi.stays.com.br/image/639c6fcda26ee58568dd5304"
+    ],
+    "building": {
+      "name": "Studio Housi - PR Ecosmart",
+      "description": "Curitiba vai te surpreender com o condomínio Eco Smart, com um conceito de Coliving, traz uma nova tendência de moradia que incentiva o convívio e a troca de experiênciaLocalizado na rua Bárbara Cvintal, 280, o empreendimento oferece a comodidade de estar do lado do Park Shopping Barigui, em uma das regiões mais cobiçadas da cidade, com fácil acesso às principais avenidas que te levam a qualquer ponto da capital.Na Eco Smart você tem à sua disposição academia, lavanderia coletiva, coworking e várias outras comodidades que só uma Housi oferece. \n A Housi perfeita para uma experiência incrível de moradia.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1017 3° (25H2M3)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-1211 3° (3A3CRI)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-0515 3° (TO4K1M)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-1015 3° (STM8EK)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1107 3° (VX80Q3)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-0719 3° (J46RGF)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1004 3° (2M5R2E)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1319 3° (D529XQ)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-0608 3° (WX4ZT1)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-1102 3° (5SFS4K)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 16,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-HOBN 1411 UNIDADE JONI",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paulista",
+      "street": "BELA CINTRA",
+      "streetNumber": "1032",
+      "zipCode": "01415002"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/637678d7a758795f9064cfa2",
+      "https://housi.stays.com.br/image/63d2e051adc6b89e16b31fca",
+      "https://housi.stays.com.br/image/63d2e051172b7d33d4e75d57",
+      "https://housi.stays.com.br/image/63d2e051880c7e54f15c8f02",
+      "https://housi.stays.com.br/image/63d2e052b3cc72ca342d22cb"
+    ],
+    "building": {
+      "name": "Housi Paulista",
+      "description": "Na Housi a sua moradia flexível é por assinatura. Você muda rapidinho e pode ficar pelo tempo que quiser, contando com um prédio totalmente inteligente repleto de facilidades: mercado, adega, bicicleta, carro elétrico entre outros, para facilitar seu dia a dia, repleto de #ExperiênciasIndaHousi.Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação.INFORMAÇÕES PARA SUA HOSPEDAGEM:- O horário de saída deverá acontecer até as 12h do último dia da reserva.- É proibido fumar dentro da unidade, corredores e elevadores.- Descarte o lixo conforme orientação da portaria.- Todos os itens que compõem a unidade, são de responsabilidade do morador, esses possuem chips de segurança e, em caso de eventual dano, deverão ser reembolsados a Housi.- A Housi não se responsabiliza por objetos pessoais deixados na unidade, após a saída. Sempre verifique antes de sair.- Pedimos conscientização sobre barulhos e sons altos.- Sempre verifique se todas as janelas e portas estão fechadas, antes de ligar o equipamento de ar-condicionado, para evitar respingos de água.- Todas as imagens do anúncio, são meramente ilustrativas, portanto, os itens podem variar.- Temos secadores e ferro de passar roupa, disponíveis para empréstimo na recepção.- Lavanderia OMO no térreo, com maquinas de lavar e secadora, o acesso é feito via app \"OMO Lavanderia\".- Como somos um condomínio residencial, não possuímos serviço de café da manhã. Porém, há muitos lugares nas redondezas do condomínio com ótimas avaliações.Sinta-se In Housi. E conheça um novo conceito de moradia!Aqui você vai viver com liberdade, se conectar\n"
+    }
+  },
+  {
+    "name": "SP-HOBN 1411 UNIDADE TESTE TECH",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paulista",
+      "street": "BELA CINTRA",
+      "streetNumber": "1032",
+      "zipCode": "01415002"
+    },
+    "area": 22,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/6376797543c35087b9151d07",
+      "https://housi.stays.com.br/image/63d2e5afa7ccfdd247ce7da5",
+      "https://housi.stays.com.br/image/63d2e5afb58963ea26b5ed8f",
+      "https://housi.stays.com.br/image/63d2e5bfadc6b89e16b33491",
+      "https://housi.stays.com.br/image/63d2e5bf42dad5e7cb89d106"
+    ],
+    "building": {
+      "name": "Housi Paulista",
+      "description": "Na Housi a sua moradia flexível é por assinatura. Você muda rapidinho e pode ficar pelo tempo que quiser, contando com um prédio totalmente inteligente repleto de facilidades: mercado, adega, bicicleta, carro elétrico entre outros, para facilitar seu dia a dia, repleto de #ExperiênciasIndaHousi.Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação.INFORMAÇÕES PARA SUA HOSPEDAGEM:- O horário de saída deverá acontecer até as 12h do último dia da reserva.- É proibido fumar dentro da unidade, corredores e elevadores.- Descarte o lixo conforme orientação da portaria.- Todos os itens que compõem a unidade, são de responsabilidade do morador, esses possuem chips de segurança e, em caso de eventual dano, deverão ser reembolsados a Housi.- A Housi não se responsabiliza por objetos pessoais deixados na unidade, após a saída. Sempre verifique antes de sair.- Pedimos conscientização sobre barulhos e sons altos.- Sempre verifique se todas as janelas e portas estão fechadas, antes de ligar o equipamento de ar-condicionado, para evitar respingos de água.- Todas as imagens do anúncio, são meramente ilustrativas, portanto, os itens podem variar.- Temos secadores e ferro de passar roupa, disponíveis para empréstimo na recepção.- Lavanderia OMO no térreo, com maquinas de lavar e secadora, o acesso é feito via app \"OMO Lavanderia\".- Como somos um condomínio residencial, não possuímos serviço de café da manhã. Porém, há muitos lugares nas redondezas do condomínio com ótimas avaliações.Sinta-se In Housi. E conheça um novo conceito de moradia!Aqui você vai viver com liberdade, se conectar\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1512",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1416 3° (JRPDUF)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluç��es mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNFC-0520",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "Rua Frei Caneca",
+      "streetNumber": "645",
+      "zipCode": "01307001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/630e0d5f134d16f0a6dc36ea"],
+    "building": {
+      "name": "VN Frei Caneca",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua Oscar Freire é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1204 3° (F3YJP9)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNVR-0710",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Paraíso",
+      "street": "Vergueiro",
+      "streetNumber": "1009",
+      "zipCode": "01504001"
+    },
+    "area": 24,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63611d25eb03ec08fc7fc112",
+      "https://housi.stays.com.br/image/63611d1efa38b70e20f039c0",
+      "https://housi.stays.com.br/image/63611d1fc07c6d71c94c7666",
+      "https://housi.stays.com.br/image/63611d1f69c5186507cb07f7",
+      "https://housi.stays.com.br/image/63611d20d9bc73bd296d183b"
+    ],
+    "building": {
+      "name": "VN Vergueiro",
+      "description": "Uma das principais vias da cidade, muito frequentada por estudantes, artistas e entusiastas da dança, graças aos famosos ensaios do Centro Cultural São Paulo, e muito próximo de grandes shoppings e centros comerciais, morar na VN Vergueiro é mais um atrativo de viver a experiência de estar perto de tudo com a liberdade de morar como e quando quiser.\n Localizado na Rua Vergueiro, 1009, com fácil acesso a estações de metrô, hospitais, bares e restaurantes de gastronomia internacional com as delícias do bairro da Liberdade, você ainda desfruta de toda da comodidade de ter Condomínio, IPTU, internet, água, luz e muito mais. Tudo incluso na sua assinatura e pagando com um boleto só. Zero burocracia e 100% digital.\n Então não perca tempo e escolha a sua.\n"
+    }
+  },
+  {
+    "name": "SP-NOIB 1418",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Itaim Bibi",
+      "street": "Avenida Santo Amaro",
+      "streetNumber": "1342",
+      "zipCode": "04506001"
+    },
+    "area": 26,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/636bd09d82d174eb61392ec5",
+      "https://housi.stays.com.br/image/63752206a81775147ccbbd45",
+      "https://housi.stays.com.br/image/6375220687cc9a18f97047fb",
+      "https://housi.stays.com.br/image/63752206d6efd047bd53dee7",
+      "https://housi.stays.com.br/image/637522071c0055d3e6955070"
+    ],
+    "building": {
+      "name": "SP-NOIB-NEX ONE ITAIM - Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.\nNa Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1206 3° (892MVI)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1509 3° (1J3CL3)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-0411 3° (DK5D5K)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1010 3° (K4VFWZ)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-1811 3° (O8ORWE)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNCN-1119 3° (S17RGF)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Consolação",
+      "street": "da Consolação",
+      "streetNumber": "287",
+      "zipCode": "01302000"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": ["https://housi.stays.com.br/image/5f6cff4f78bdc157144584a9"],
+    "building": {
+      "name": "VN Consolação",
+      "description": "Ecossistema Housi é um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O bairro localizado na região central se destaca por sua facilidade de acesso a todas as zonas da cidade e é servida por várias linhas de ônibus, estações de metrô que comportam as linhas Amarela, Vermelha e Verde, e conta com uma infraestrutura completa: escolas e faculdades, mercados, comércio diversificado, shoppings, opções de lazer e cultura.Além da mobilidade e toda infraestrutura, a própria Rua da Consolação é uma atração à parte com seu amplo comércio e edifícios modernos que contrastam com edificações históricas e tradicionais.\n"
+    }
+  },
+  {
+    "name": "SP-VNTS-2104 3° (U092YA)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "SP",
+      "city": "São Paulo",
+      "neighborhood": "Perdizes",
+      "street": "Rua Turiassú",
+      "streetNumber": "1473",
+      "zipCode": "05005001"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/62ba13971997338525e0c815",
+      "https://housi.stays.com.br/image/62ba1203199733f0ace0c787"
+    ],
+    "building": {
+      "name": "SP- VNTS - VN TURIASSU II - Operado por 360°",
+      "description": "Um prédio conectado às soluções mais completas na palma da sua mão. Todo morador Housi tem acesso a descontos, benefícios e facilidades oferecidos pelas marcas parceiras atreladas ao empreendimento para gerar uma experiência completa para quem vai morar. O VN Turiassú 1473 conta com guarda-entregas, carro compartilhado, VN academia VN Steps, bike compartilhada e bicicletário, VN Café, coworking com carregador por indução para tecnologias compatíveis, lobby com concierge, VN cozinha compartilhada e Lounge jogos. #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-NOIB 1018",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Itaim Bibi",
+      "street": "Avenida Santo Amaro",
+      "streetNumber": "1342",
+      "zipCode": "04506001"
+    },
+    "area": 26,
+    "guests": 2,
+    "bedrooms": 1,
+    "beds": 1,
+    "bathrooms": 1,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/63585d18ac9a619ab8ee4e5d",
+      "https://housi.stays.com.br/image/63585d1babc97bd910105ab6",
+      "https://housi.stays.com.br/image/63585d11fe3c456be606711e",
+      "https://housi.stays.com.br/image/63585d1209fbfd7107ed437e",
+      "https://housi.stays.com.br/image/63585d125414d2c34646cec9"
+    ],
+    "building": {
+      "name": "SP-NOIB-NEX ONE ITAIM - Operado por Flat4you",
+      "description": "Conectado com a cidade e bem localizado, o projeto conta com lazer e serviços que trazem conforto e praticidade para o dia a dia.\nNa Housi a moradia é por assinatura. Você muda rapidinho e pode morar pelo tempo que quiser. Alugue sem sair de casa, processo 100% digital. Sem burocracia, sem fiador, sem boletos e preocupação. Sinta-se In Housi e conheça um novo conceito de moradia! #SuaHousiporAssinatura\n"
+    }
+  },
+  {
+    "name": "SP-VNOF 1207 3° (FCIBC8)",
+    "status": "APPROVED",
+    "address": {
+      "country": "Brasil",
+      "state": "São Paulo",
+      "city": "Sao Paulo",
+      "neighborhood": "Jardins",
+      "street": "Rua Oscar Freire",
+      "streetNumber": "1375",
+      "zipCode": "05409010"
+    },
+    "area": 0,
+    "guests": 0,
+    "bedrooms": 0,
+    "beds": 0,
+    "bathrooms": 0,
+    "category": "STANDARD",
+    "petFriendly": false,
+    "gallery": [
+      "https://housi.stays.com.br/image/619516a18812e45da59d5b43",
+      "https://housi.stays.com.br/image/619516a3c0955de4e3e6b4d4",
+      "https://housi.stays.com.br/image/619516a4f6f37d4d733d1961",
+      "https://housi.stays.com.br/image/619516a3c0955d7bafe6b4d5",
+      "https://housi.stays.com.br/image/619516a1c0955dcf55e6b4ce"
+    ],
+    "building": {
+      "name": "VN Oscar Freire",
+      "description": "A Housi nasceu com o propósito de reinventar o jeito de viver em sociedade. Somos uma plataforma de moradia on demand, 100% digital e sem burocracia, que oferece a liberdade de morar pelo tempo que quiser com a facilidade de um clique.  Todos os apartamentos da Housi contam com a melhor experiência que você pode ter na cidade de São Paulo. Desejamos que você encontre em nossos apês todo o charme, comodidade e infraestrutura que você está procurando - e muito mais. Além de um design moderno, contamos com cama aconchegante, ar condicionado, cozinha equipada e televisão a cabo já conectada no Smart Tv para você assistir a sua série favorita! Além disso, todos os serviços, descontos e benefícios oferecidos pelos nossos parceiros podem ser encontrados no app da Housi. É só procurar no Housi Space.\n\n\n"
+    }
+  }
+]

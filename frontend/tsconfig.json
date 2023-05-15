@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": ["DOM", "DOM.Iterable", "ESNext"],
+    "types": [],
+    "allowJs": false,
+    "esModuleInterop": false,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "composite": true,
+    "allowSyntheticDefaultImports": true,
+    "useDefineForClassFields": true,
+    "skipLibCheck": true,
+    "jsx": "react-jsx",
+    "baseUrl": ".",
+    "paths": {
+      "~/assets/*": ["src/assets/*"],
+      "~/components/*": ["src/components/*"],
+      "~/features/*": ["src/features/*"],
+      "~/hooks/*": ["src/hooks/*"],
+      "~/interfaces/*": ["src/interfaces/*"],
+      "~/lib/*": ["src/lib/*"],
+      "~/pages/*": ["src/pages/*"],
+      "~/routes/*": ["src/routes/*"],
+      "~/services/*": ["src/services/*"],
+      "~/utils/*": ["src/utils/*"]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", "vite.config.ts"]
+}
